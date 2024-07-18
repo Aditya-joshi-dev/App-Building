@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   },
   container: {
     width: 350,
-    height: 400,
+    height: 410,
     borderRadius: 6,
     marginVertical: 16,
     marginHorizontal: 20,
